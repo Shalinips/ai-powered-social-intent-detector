@@ -7,7 +7,11 @@ Unlike basic sentiment analysis, this project focuses on detecting *how* somethi
 
 The application is built using **Python, NLP techniques, and Streamlit** for an interactive user interface.
 
----
+ 📸 Demo
+
+![Project Demo](demo.png)
+
+
 
 🎯 Detected Social Intents
 The system classifies text into the following categories:
