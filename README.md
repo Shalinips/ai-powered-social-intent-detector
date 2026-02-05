@@ -13,6 +13,8 @@ The application is built using **Python, NLP techniques, and Streamlit** for an 
 
 
 
+
+
 🎯 Detected Social Intents
 The system classifies text into the following categories:
 - **Sarcasm**
